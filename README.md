@@ -41,9 +41,8 @@ Here are some of the projects I've worked on:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website/Blog](your-website)
+- [LinkedIn](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
+- [Facebook](https://www.facebook.com/shahjadasazid.shakkhor)
 
 Feel free to explore my repositories and don't hesitate to get in touch if you want to discuss any potential collaborations or just say hi!
 
