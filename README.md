@@ -1,24 +1,74 @@
-# Hi there, I'm Md Shahjada Sajid 👋
+# 👋 Hi there, I'm Md Shahjada Sajid
 
-Welcome to my GitHub profile! I'm passionate about Data Science and AI, and I love working on projects that involve Machine Learning. Here you can find some of my recent work and collaborations. 
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Enthusiast** with a focus on **Machine Learning** and **Deep Learning**. I love working on projects that explore the potential of **AI** technologies, and I'm always eager to learn and experiment with new techniques.
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I’m interested in Data Science.
-- 🌱 I’m currently learning Machine Learning.
-- 🤔 I’m looking for help with Deep Learning.
-- 💬 Ask me about Python, DSA and Databases.
-- 📫 How to reach me: sazidshahjada@gmail.com
-- ⚡ Connect me on [LinkedIn](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
+- 🔭 **Interests**: I am deeply passionate about **Computer Vision**, specifically working with image recognition, object detection, and facial expression analysis. Lately, I've also been diving into **Natural Language Processing (NLP)**, with a special focus on **Transformers**.
+  
+- 🌱 **Currently Learning**: Expanding my expertise in **Deep Learning** techniques for computer vision tasks while simultaneously exploring the world of **Transformers** for NLP.
 
-## 🛠️ Languages and Tools
+- 🤔 **Looking For**: Collaboration and guidance on advanced **AI** projects and **Deep Learning** techniques, as well as new insights into **Transformers** and how they can be integrated with vision tasks.
 
-Here are some of the tools and technologies I work with:
+- 💬 **Ask Me About**: **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Data Structures & Algorithms (DSA)**, **Databases**, and more!
 
-- Programming Languages: C, C++, Python, MATLAB
-- Frameworks: Flask, Django, Scikit-Learn.
-- Tools: Git
-- Databases: MySQL, SQL Server
+- 📫 **Get In Touch**: [sazidshahjada@gmail.com](mailto:sazidshahjada@gmail.com)
+
+- ⚡ **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
+
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some of the tools and technologies I frequently work with:
+
+### **Programming Languages**
+- Python, C, C++, MATLAB
+
+### **Machine Learning Frameworks**
+- **Scikit-Learn**, **TensorFlow**, **PyTorch**, **Torchserve**
+
+### **Deep Learning**
+- **CNNs**, **GANs**, **ResNet**, **YOLO**
+
+### **Natural Language Processing (NLP)**
+- **Transformers**, **BERT**, **GPT**
+
+### **Web Development**
+- **Flask**, **Django**
+
+### **Databases**
+- **MySQL**, **SQL Server**
+
+### **Tools**
+- **Git**, **Docker**, **Jupyter Notebook**
+
+### **Cloud Platforms**
+- **AWS**, **Google Cloud**
+
+---
+
+## 🚀 Current Projects
+
+- **Emotion-Aware Virtual Assistant**: Aiming to create a system that detects mental health conditions by analyzing facial expressions, voice tone, and speech. This assistant will also suggest activities based on emotional states.
+
+- **AI Research Lab**: Focused on establishing a lab for cutting-edge research in **Intelligent Systems** and **Autonomous Technologies**, where I work on combining the latest in **AI** with real-world applications.
+
+---
+
+## 📂 Recently Completed Projects
+
+Here are some of my recently completed projects:
+
+- [**Emotion Detection from Voice Tone**](#): A deep learning project focused on analyzing **Bengali language** voice tone to detect emotions.
+  
+- [**Flood Detection Using Drone Footage**](#): Developed a system that detects flood-affected areas and people from drone footage using advanced **YOLO** and **ResNet** models.
+
+- [**Attendance System Using Face Recognition**](https://github.com/sazidshahjada/FaceRecognitionBasedAttendanceSystem.git): Built a face recognition-based attendance system utilizing **MTCNN** for face detection and **InceptionResnetV1** for face embeddings, storing them in a database for efficient attendance tracking.
+
+---
 
 ## 📈 GitHub Stats
 
@@ -26,8 +76,17 @@ Here are some of the tools and technologies I work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazidshahjada&layout=compact&theme=radical)
 
+---
 
-Feel free to explore my repositories and don't hesitate to get in touch if you want to discuss any potential collaborations or just say hi!
+## 🔍 Areas of Focus
 
-Thanks for stopping by! 😊
+- **Computer Vision**: Developing models for tasks like image recognition, object detection, and emotion recognition.
+- **Deep Learning**: Advancing my understanding of neural networks, especially **CNNs** and **GANs**.
+- **Natural Language Processing (NLP)**: Exploring the impact of **Transformers** on language models, particularly in tasks like text generation and classification.
+
+---
+
+Feel free to explore my repositories! If you're interested in collaborating or discussing AI, Computer Vision, or Deep Learning, don’t hesitate to reach out. I'm always open to new ideas and opportunities!
+
+Thanks for visiting! 😊
 
