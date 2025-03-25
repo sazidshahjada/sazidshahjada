@@ -1,16 +1,14 @@
 # 👋 Hi there, I'm Md Shahjada Sajid
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Enthusiast** with a focus on **Machine Learning** and **Deep Learning**. I love working on projects that explore the potential of **AI** technologies, and I'm always eager to learn and experiment with new techniques.
+Welcome to my GitHub profile! I'm a passionate **AI Enthusiast** with a focus on **Machine Learning** and **Deep Learning**. I love working on projects that explore the potential of **AI** technologies, and I'm always eager to learn and experiment with new techniques.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Interests**: I am deeply passionate about **Computer Vision**, specifically working with image recognition, object detection, and facial expression analysis. Lately, I've also been diving into **Natural Language Processing (NLP)**, with a special focus on **Transformers**.
-  
-- 🌱 **Currently Learning**: Expanding my expertise in **Deep Learning** techniques for computer vision tasks while simultaneously exploring the world of **Transformers** for NLP.
+- 🔭 **Interests**: I am deeply passionate about **Computer Vision**, specifically working with image recognition, object detection, facial expression analysis and image generation. Lately, I've also been diving into **Natural Language Processing (NLP)**, with a special focus on **Transformer based models**.
 
-- 🤔 **Looking For**: Collaboration and guidance on advanced **AI** projects and **Deep Learning** techniques, as well as new insights into **Transformers** and how they can be integrated with vision tasks.
+- 🤔 **Looking For**: Collaboration and guidance on advanced **AI** projects and **Deep Learning** techniques, as well as new insights into **Transformer based models** and how they can be integrated with vision tasks.
 
 - 💬 **Ask Me About**: **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Data Structures & Algorithms (DSA)**, **Databases**, and more!
 
@@ -28,44 +26,34 @@ Here are some of the tools and technologies I frequently work with:
 - Python, C, C++, MATLAB
 
 ### **Machine Learning Frameworks**
-- **Scikit-Learn**, **TensorFlow**, **PyTorch**, **Torchserve**
+- **Scikit-Learn**, **PyTorch**, **Torchserve**
 
 ### **Deep Learning**
-- **CNNs**, **GANs**, **ResNet**, **YOLO**
+- **CNNs**, **GANs**
 
 ### **Natural Language Processing (NLP)**
-- **Transformers**, **BERT**, **GPT**
+- **Transformers**, **BERT**
+
+### **Vision Language Models (VLMs)**
+- **CLIP**, **Whisper**
 
 ### **Web Development**
-- **Flask**, **Django**
+- **Django**, **FastAPI**
 
 ### **Databases**
 - **MySQL**, **SQL Server**
 
 ### **Tools**
-- **Git**, **Docker**, **Jupyter Notebook**
+- **Git**, **Docker**
 
 ### **Cloud Platforms**
 - **AWS**, **Google Cloud**
 
 ---
 
-## 🚀 Current Projects
-
-- **Emotion-Aware Virtual Assistant**: Aiming to create a system that detects mental health conditions by analyzing facial expressions, voice tone, and speech. This assistant will also suggest activities based on emotional states.
-
-- **AI Research Lab**: Focused on establishing a lab for cutting-edge research in **Intelligent Systems** and **Autonomous Technologies**, where I work on combining the latest in **AI** with real-world applications.
-
----
-
 ## 📂 Recently Completed Projects
 
 Here are some of my recently completed projects:
-
-- [**Emotion Detection from Voice Tone**](#): A deep learning project focused on analyzing **Bengali language** voice tone to detect emotions.
-  
-- [**Flood Detection Using Drone Footage**](#): Developed a system that detects flood-affected areas and people from drone footage using advanced **YOLO** and **ResNet** models.
-
 - [**Attendance System Using Face Recognition**](https://github.com/sazidshahjada/FaceRecognitionBasedAttendanceSystem.git): Built a face recognition-based attendance system utilizing **MTCNN** for face detection and **InceptionResnetV1** for face embeddings, storing them in a database for efficient attendance tracking.
 
 ---
@@ -80,7 +68,7 @@ Here are some of my recently completed projects:
 
 ## 🔍 Areas of Focus
 
-- **Computer Vision**: Developing models for tasks like image recognition, object detection, and emotion recognition.
+- **Computer Vision**: Developing models for tasks like image recognition, object detection, and image generation.
 - **Deep Learning**: Advancing my understanding of neural networks, especially **CNNs** and **GANs**.
 - **Natural Language Processing (NLP)**: Exploring the impact of **Transformers** on language models, particularly in tasks like text generation and classification.
 
