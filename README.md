@@ -16,40 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **AI Enthusiast** with a focus on
 
 - ⚡ **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
 
----
 
-## 🛠️ Technologies & Tools
-
-Here are some of the tools and technologies I frequently work with:
-
-### **Programming Languages**
-- Python, C, C++, MATLAB
-
-### **Machine Learning Frameworks**
-- **Scikit-Learn**, **PyTorch**, **Torchserve**
-
-### **Deep Learning**
-- **CNNs**, **GANs**
-
-### **Natural Language Processing (NLP)**
-- **Transformers**, **BERT**
-
-### **Vision Language Models (VLMs)**
-- **CLIP**, **Whisper**
-
-### **Web Development**
-- **Django**, **FastAPI**
-
-### **Databases**
-- **MySQL**, **SQL Server**
-
-### **Tools**
-- **Git**, **Docker**
-
-### **Cloud Platforms**
-- **AWS**, **Google Cloud**
-
----
 
 ## 📂 Recently Completed Projects
 
