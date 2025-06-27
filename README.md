@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Shahjada Sajid
 
-I'm a final-year engineering student and an **AI enthusiast** with a strong interest in **Machine Learning** and **Deep Learning**. I enjoy working on projects that apply AI techniques to solve real-world problems and am always eager to learn and improve. Driven by curiosity and a problem-solving mindset, I focus on building practical solutions while actively engaging in research and innovation. I believe in continuous growth, collaboration, and sharing knowledge to push the boundaries of AI and make a positive impact through technology.
+I'm a final-year engineering student and an **AI & ML enthusiast** with a strong interest in **Machine Learning** and **Deep Learning**. I enjoy working on projects that apply AI techniques to solve real-world problems and am always eager to learn and improve. Driven by curiosity and a problem-solving mindset, I focus on building practical solutions while actively engaging in research and innovation. I believe in continuous growth, collaboration, and sharing knowledge to push the boundaries of AI and make a positive impact through technology.
 
 ## ⚙️ What I Do
 
