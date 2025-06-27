@@ -1,47 +1,40 @@
-# 👋 Hi there, I'm Md Shahjada Sajid
+# 👋 Hi, I'm Md Shahjada Sajid
 
-Welcome to my GitHub profile! I'm a passionate **AI Enthusiast** with a focus on **Machine Learning** and **Deep Learning**. I love working on projects that explore the potential of **AI** technologies, and I'm always eager to learn and experiment with new techniques.
+I'm a final-year engineering student and an **AI enthusiast** with a strong interest in **Machine Learning** and **Deep Learning**. I enjoy working on projects that apply AI techniques to solve real-world problems and am always eager to learn and improve. Driven by curiosity and a problem-solving mindset, I focus on building practical solutions while actively engaging in research and innovation. I believe in continuous growth, collaboration, and sharing knowledge to push the boundaries of AI and make a positive impact through technology.
 
----
+## ⚙️ What I Do
 
-## 🚀 About Me
+- Build and experiment with AI models using modern tools and frameworks  
+- Work on projects involving automation, learning algorithms, and intelligent systems  
+- Practice clean coding and version control to keep projects maintainable and reproducible  
+- Explore academic and practical use cases of machine learning and deep learning  
+- Participate in hackathons, research discussions, and collaborative development  
+- Continuously learn new concepts and keep up with the evolving AI ecosystem  
 
-- 🔭 **Interests**: I am deeply passionate about **Computer Vision**, specifically working with image recognition, object detection, facial expression analysis and image generation. Lately, I've also been diving into **Natural Language Processing (NLP)**, with a special focus on **Transformer based models**.
+## 🛠 Tools I Use
 
-- 🤔 **Looking For**: Collaboration and guidance on advanced **AI** projects and **Deep Learning** techniques, as well as new insights into **Transformer based models** and how they can be integrated with vision tasks.
+- **Programming Languages:** Python (primary), C++, Bash  
+- **Deep Learning Frameworks:** PyTorch, TensorFlow  
+- **Version Control & Collaboration:** Git, GitHub, BitBucket  
+- **Operating Systems:** Linux (Ubuntu), Windows  
+- **Databases & Querying:** MySQL, SQLite  
+- **Development Environments:** Jupyter Notebook, VS Code  
+- **Other Tools:** Docker, Command Line, API integration  
 
-- 💬 **Ask Me About**: **Python**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Data Structures & Algorithms (DSA)**, **Databases**, and more!
+## 📂 Explore & Collaborate
 
-- 📫 **Get In Touch**: [sazidshahjada@gmail.com](mailto:sazidshahjada@gmail.com)
+Feel free to check out my open repositories — I'm always open to feedback, contributions, and collaboration. If you have an idea or want to work together on something interesting, let's connect!
 
-- ⚡ **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
+## 📫 Contact
 
+- Email: [sazidshahjada@gmail.com](mailto:sazidshahjada@gmail.com)  
+- LinkedIn: [md-shahjada-sajid](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
 
+## 📊 GitHub Stats
 
-## 📂 Recently Completed Projects
+![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazidshahjada&show_icons=true&theme=default)
 
-Here are some of my recently completed projects:
-- [**Attendance System Using Face Recognition**](https://github.com/sazidshahjada/FaceRecognitionBasedAttendanceSystem.git): Built a face recognition-based attendance system utilizing **MTCNN** for face detection and **InceptionResnetV1** for face embeddings, storing them in a database for efficient attendance tracking.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazidshahjada&layout=compact&theme=default)
 
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sazidshahjada&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazidshahjada&layout=compact&theme=radical)
-
----
-
-## 🔍 Areas of Focus
-
-- **Computer Vision**: Developing models for tasks like image recognition, object detection, and image generation.
-- **Deep Learning**: Advancing my understanding of neural networks, especially **CNNs** and **GANs**.
-- **Natural Language Processing (NLP)**: Exploring the impact of **Transformers** on language models, particularly in tasks like text generation and classification.
-
----
-
-Feel free to explore my repositories! If you're interested in collaborating or discussing AI, Computer Vision, or Deep Learning, don’t hesitate to reach out. I'm always open to new ideas and opportunities!
-
-Thanks for visiting! 😊
+Thanks for visiting!
 
