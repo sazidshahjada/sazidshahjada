@@ -1,40 +1,47 @@
-# 👋 Hi, I'm Md Shahjada Sajid
+# Hi, I'm Md. Shahjada Sajid 👋
 
-I'm a final-year engineering student and an **AI & ML enthusiast** with a strong interest in **Machine Learning** and **Deep Learning**. I enjoy working on projects that apply AI techniques to solve real-world problems and am always eager to learn and improve. Driven by curiosity and a problem-solving mindset, I focus on building practical solutions while actively engaging in research and innovation. I believe in continuous growth, collaboration, and sharing knowledge to push the boundaries of AI and make a positive impact through technology.
+🎓 Final-year undergraduate student in Information & Communication Technology  
+🔬 Undergraduate Research Assistant at **CISAT**  
+📍 Islamic University, Kushtia, Bangladesh  
 
-## ⚙️ What I Do
+I work on **machine learning and deep learning for data-driven modeling, perception, and intelligent decision systems**, with a strong focus on **signal processing, multimodal learning, and scalable AI systems**. I’m especially interested in translating research ideas into **real-world applications** like healthcare, speech/audio intelligence, and robust estimation in complex environments.
 
-- Build and experiment with AI models using modern tools and frameworks  
-- Work on projects involving automation, learning algorithms, and intelligent systems  
-- Practice clean coding and version control to keep projects maintainable and reproducible  
-- Explore academic and practical use cases of machine learning and deep learning  
-- Participate in hackathons, research discussions, and collaborative development  
-- Continuously learn new concepts and keep up with the evolving AI ecosystem  
+---
 
-## 🛠 Tools I Use
+## 🔍 Research Interests
+- Machine Learning & Deep Learning  
+- Audio, Speech & Signal Processing  
+- Image Processing & Computer Vision  
+- Multimodal Learning  
+- Data-Driven Estimation  
+- AI for Healthcare & Real-World Systems  
 
-- **Programming Languages:** Python (primary), C++, Bash  
-- **Deep Learning Frameworks:** PyTorch, TensorFlow  
-- **Version Control & Collaboration:** Git, GitHub, BitBucket  
-- **Operating Systems:** Linux (Ubuntu), Windows  
-- **Databases & Querying:** MySQL, SQLite  
-- **Development Environments:** Jupyter Notebook, VS Code  
-- **Other Tools:** Docker, Command Line, API integration  
+---
 
-## 📂 Explore & Collaborate
+## 🛠️ Tools & Technologies
+**Languages:** Python, C++, MATLAB  
 
-Feel free to check out my open repositories — I'm always open to feedback, contributions, and collaboration. If you have an idea or want to work together on something interesting, let's connect!
+**ML/DL:** PyTorch, TensorFlow, Scikit-learn, CuML  
 
-## 📫 Contact
+**Data & Visualization:** NumPy, Pandas, Polars, Matplotlib, Plotly  
 
-- Email: [sazidshahjada@gmail.com](mailto:sazidshahjada@gmail.com)  
-- LinkedIn: [md-shahjada-sajid](https://www.linkedin.com/in/md-shahjada-sajid-b5a318212/)
+**Image Processing:** OpenCV, Torchvision, scikit-image, SimpleITK  
 
-## 📊 GitHub Stats
+**Signal Processing:** Librosa, Torchaudio, SciPy Signal, SpeechBrain  
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazidshahjada&show_icons=true&theme=default)
+**Deployment & Cloud:** Docker, TorchServe, AWS, Azure  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazidshahjada&layout=compact&theme=default)
+**Databases:** MySQL, Elasticsearch, OpenSearch  
 
-Thanks for visiting!
+**OS & Version Control:** Linux (Ubuntu), Windows, Git, GitHub, GitLab  
 
+---
+
+## 📫 Connect With Me
+- 📧 Email: sazidshahjada@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-shahjada-sajid-b5a318212  
+- 🌐 GitHub: https://github.com/sazidshahjada  
+
+---
+
+⭐ *I’m always open to research collaboration, open-source contributions, and impactful AI projects.*
