@@ -1,10 +1,8 @@
 # Hi, I'm Md. Shahjada Sajid 👋
 
-🎓 Final-year undergraduate student in Information & Communication Technology  
-🔬 Undergraduate Research Assistant at **CISAT**  
+🎓 BSc (Engg.) graduate in Information and Communication Technology  
+🔬 Research Assistant at **Advanced Intelligent Systems and Autonomous Technology (AISAT) Lab**  
 📍 Islamic University, Kushtia, Bangladesh  
-
-I work on **machine learning and deep learning for data-driven modeling, perception, and intelligent decision systems**, with a strong focus on **signal processing, multimodal learning, and scalable AI systems**. I’m especially interested in translating research ideas into **real-world applications** like healthcare, speech/audio intelligence, and robust estimation in complex environments.
 
 ---
 
@@ -25,9 +23,9 @@ I work on **machine learning and deep learning for data-driven modeling, percept
 
 **Data & Visualization:** NumPy, Pandas, Polars, Matplotlib, Plotly  
 
-**Image Processing:** OpenCV, Torchvision, scikit-image, SimpleITK  
+**Image Processing:** OpenCV, Torchvision, scikit-image, MATLAB Image Processing Toolbox 
 
-**Signal Processing:** Librosa, Torchaudio, SciPy Signal, SpeechBrain  
+**Signal Processing:** Librosa, Torchaudio, SciPy Signal, SpeechBrain, MATLAB Signal Processing Toolbox
 
 **Deployment & Cloud:** Docker, TorchServe, AWS, Azure  
 
@@ -38,7 +36,7 @@ I work on **machine learning and deep learning for data-driven modeling, percept
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: sazidshahjada@gmail.com  
+- 📧 Email: shahjadasajid.ict@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/md-shahjada-sajid-b5a318212  
 - 🌐 GitHub: https://github.com/sazidshahjada  
 
